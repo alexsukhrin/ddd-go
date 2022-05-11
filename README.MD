@@ -1,0 +1,1 @@
+### Example struct project template DDD for Go
